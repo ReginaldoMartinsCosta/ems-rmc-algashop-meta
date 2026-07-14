@@ -4,3 +4,6 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-docs.git
+[submodule "microservices/billing"]
+	path = microservices/billing
+	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-billing.git
