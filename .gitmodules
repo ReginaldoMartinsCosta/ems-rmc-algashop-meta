@@ -4,9 +4,20 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-docs.git
+	branch = main
 [submodule "microservices/billing"]
 	path = microservices/billing
 	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-billing.git
+	branch = main
 [submodule "microservices/product-catalog"]
 	path = microservices/product-catalog
 	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-product-catalog.git
+	branch = main
+[submodule "microservices/billing-scheduler"]
+	path = microservices/billing-scheduler
+	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-billing-scheduler.git
+	branch = main
+[submodule "template"]
+	path = template
+	url = https://github.com/ReginaldoMartinsCosta/ems-rmc-algashop-template.git
+	branch = main

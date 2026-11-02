@@ -4,7 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/docs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservices/billing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microservices/billing-scheduler" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservices/ordering" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/microservices/product-catalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/template" vcs="Git" />
   </component>
 </project>
